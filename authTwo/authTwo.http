@@ -1,0 +1,6 @@
+@authTwo_HostAddress = http://localhost:5005
+
+GET {{authTwo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
